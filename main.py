@@ -51,4 +51,4 @@ async def chinese(ctx, *text):
 		chineseText.append(" ")
 	await ctx.send("".join(chineseText))
 
-bot.run("OTM5MDg3MzcxOTA1OTI1MTUw.YfzvRA.-llRhoH-zRvZBTlxhfTf2gMN62I")
+bot.run("OTM5MDg3MzcxOTA1OTI1MTUw.YfzvRA.CKvmvLBKucm07UWCf8rVZFuXn6k")
